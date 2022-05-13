@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hola 👋🏽, soy [Tomás!](https://adarshreddyash.github.io) 
+<br />
 
-<!--
-**TomasAranda21/TomasAranda21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola, soy Tomás Aranda, desarrollador Full Stack 🚀 de Argentina, actualmente soy, Freelancer👨🏽‍💻, además de la programación, disfruto de hacer ejercicio 🏋🏻‍♂️ y escuchar música🎵.
 
-Here are some ideas to get you started:
+- <a href="https://www.linkedin.com/in/tomas--aranda">
+  🔥Linkedin
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ - <a href="https://www.instagram.com/tomas_aranda24/?utm_medium=copy_link">🔥Instagram</a>
+<br />
+<br />
+
+  
+**Sobre Mi**
+
+- 👨🏽‍💻 Actualmente estoy buscando mi primera experiencia laboral;
+- 💬 Pregúntame sobre cualquier cosa, estaré feliz de ayudar;
+- 📫 Cómo contactarme: tomasaranda2018@gmail.com;
+- 📝[Curriculum](https://drive.google.com/file/d/1VaZkw8e5qBqdGSp_ATZ8qTVKPgRD0wR1/view)
+
