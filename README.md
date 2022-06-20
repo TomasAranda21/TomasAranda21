@@ -12,7 +12,7 @@
 
 - 👍 [Instagram](https://www.instagram.com/tomas_aranda24/?utm_medium=copy_link)
 
-- 📝 [Resume](https://drive.google.com/file/d/1VaZkw8e5qBqdGSp_ATZ8qTVKPgRD0wR1/view)
+- 📝 [Resume](https://drive.google.com/file/d/1YVsHxjlzsqtcL1OiGve8F7mkfVRIKHmS/view)
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tomas--aranda) 
 
