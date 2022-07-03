@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomás Aranda</h1>
-<h3 align="center">A passionate Full-Stack developer 👨🏽‍💻 from Argentina</h3>
+<h3 align="center">A passionate Front-End developer 👨🏽‍💻 from Argentina</h3>
 
 
 - 🔭 I’m currently working on **finding first work experience, I am also making an online store for different products to demonstrate my skills;**
