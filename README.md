@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Being able to contact me Email: tomasaranda2018@gmail.com**
 
-- 👍 [Instagram](https://www.instagram.com/tomas_aranda24/?utm_medium=copy_link)
+<!-- - 👍 [Instagram](https://www.instagram.com/tomas_aranda24/?utm_medium=copy_link) -->
 
 <!-- - 📝 [Resume](https://drive.google.com/file/d/1YVsHxjlzsqtcL1OiGve8F7mkfVRIKHmS/view) -->
 
