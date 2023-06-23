@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at **Baja Technologies, Inc.**
 
-- 👨‍💻 All of my projects are available at [tomasaranda.dev](https://tomasaranda.dev)
+- 👨‍💻 All of my projects are available at [tomasaranda.dev](https://www.tomasaranda.dev)
 
 - 💬 Ask me about **Ask me anything, I'll be happy to help you**
 
