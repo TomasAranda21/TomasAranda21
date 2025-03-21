@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-End developer 👨🏽‍💻 from Argentina</h3>
 
 
-- 🔭 I’m currently working at **Capstone.**
+- 🔭 I’m currently working at **Filadd.**
 
 - 👨‍💻 All of my projects are available at [tomasaranda.dev](https://www.tomasaranda.dev)
 
